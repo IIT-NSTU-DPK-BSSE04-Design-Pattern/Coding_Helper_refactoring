@@ -9,10 +9,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-/**
- *
- * @author Mamun
- */
 public class mainEncode {
 
     public boolean exist = false;
